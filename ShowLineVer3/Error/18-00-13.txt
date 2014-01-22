@@ -1,0 +1,5 @@
+
+Log Entry : 
+07/18/2013 22:24:44
+Error in: http://localhost:3924/Default.aspx?action=logout. Error Message:Thread was being aborted.
+__________________________

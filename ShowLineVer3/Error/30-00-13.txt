@@ -1,0 +1,5 @@
+
+Log Entry : 
+08/30/2013 11:33:38
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________

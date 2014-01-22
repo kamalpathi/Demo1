@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style type="text/css">
+    .Rounded
+    {
+    	-moz-border-radius: 5px;
+        -webkit-border-radius: 5px;
+        border-radius: 5px; /* future proofing */
+        -khtml-border-radius: 5px; /* for old Konqueror browsers */
+        height:26px;          
+        line-height: 26px;               
+    }
+</style>
+</head>
+<body>
+     <img src="http://www.showsline.com/images/showsLive-logo.png" />    
+    <br />
+    <br />
+    <div style="border-top: 3px solid #22BCE5">&nbsp;</div>
+    <span style="font-family: Arial; font-size: 10pt">Dear <b>{UserName}</b>,<br />
+        <br />
+            Greeting from ShowsLine
+       <br />
+        <br />
+        <a style="color: #22BCE5" href="{Url}">{Title}</a><br />
+        <br />
+        <div style="border:solid 1px red; width:200px;background-color:aliceblue;" class="Rounded">
+            <span style="margin-left:15px;">Password : {Pwd}</span> 
+        </div>
+        <br />
+        {Description}
+        <br />
+        <br />
+        Thanks<br />
+        ShowsLine Team
+    </span>
+</body>
+</html>

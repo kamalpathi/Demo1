@@ -1,0 +1,45 @@
+
+Log Entry : 
+09/11/2013 22:44:54
+Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:TransactionDetails
+__________________________
+
+Log Entry : 
+09/11/2013 22:49:18
+Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:TransactionDetails
+__________________________
+
+Log Entry : 
+09/11/2013 23:20:56
+Error in: http://localhost:3924/AdminReport/rptEventVenueWise.aspx. Error Message:TransactionDetails
+__________________________
+
+Log Entry : 
+09/11/2013 23:21:07
+Error in: http://localhost:3924/AdminReport/rptEventVenueWise.aspx. Error Message:TransactionDetails
+__________________________
+
+Log Entry : 
+09/11/2013 23:21:23
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+09/11/2013 23:22:24
+Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+09/11/2013 23:22:27
+Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+09/11/2013 23:28:33
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+11/11/2013 22:23:12
+Error in: http://localhost:3924/AdminReport/reportSalesReport.aspx. Error Message:Input string was not in a correct format.
+__________________________

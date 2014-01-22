@@ -1,0 +1,10 @@
+
+Log Entry : 
+08/27/2013 21:18:50
+Error in: http://localhost:3924/AdminReport/rptCurrentEvent.aspx. Error Message:Error in: http://localhost:3924/AdminReport/rptCurrentEvent.aspx. Error Message:The Report Viewer Web Control requires a System.Web.UI.ScriptManager on the web form.
+__________________________
+
+Log Entry : 
+08/27/2013 22:02:03
+Error in: http://localhost:3924/Reserved.ReportViewerWebControl.axd?OpType=SessionKeepAlive&ControlID=2d262a827cb54760a3231e68fbd95526&Mode=true. Error Message:Error in: http://localhost:3924/Reserved.ReportViewerWebControl.axd?OpType=SessionKeepAlive&ControlID=2d262a827cb54760a3231e68fbd95526&Mode=true. Error Message:ASP.NET session has expired or could not be found
+__________________________

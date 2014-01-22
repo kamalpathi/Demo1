@@ -1,0 +1,85 @@
+
+Log Entry : 
+09/25/2013 18:20:56
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+09/25/2013 18:24:08
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+09/25/2013 18:24:56
+Error in: http://localhost:3924/Admin.aspx. Error Message:A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+__________________________
+
+Log Entry : 
+09/25/2013 18:45:17
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+09/25/2013 18:47:50
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+09/25/2013 18:49:28
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+09/25/2013 18:50:53
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+09/25/2013 18:51:31
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+09/25/2013 18:52:15
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+09/25/2013 18:53:09
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+09/25/2013 18:54:12
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+09/25/2013 18:54:51
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+09/25/2013 18:55:30
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+09/25/2013 18:56:24
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+09/25/2013 18:59:47
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+09/25/2013 19:00:43
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+09/25/2013 19:03:09
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________

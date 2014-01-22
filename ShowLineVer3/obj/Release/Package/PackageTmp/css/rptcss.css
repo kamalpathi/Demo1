@@ -1,0 +1,83 @@
+﻿html {
+	background: rgb(255, 255, 255); color: rgb(0, 0, 0);
+	background-image:none;
+	background-attachment:scroll;
+	background-repeat:repeat;
+	background-position-x:0%;
+	background-position-y:0%;
+	background-size:auto;
+	background-origin:padding-box;
+	background-clip:border-box;
+	min-height:100%;
+}
+
+body
+{
+	padding :0px 0px 0px 0px;
+	margin :0px 0px 0px 0px;
+	line-height:1.3;
+	font-family:PTSansRegular, tahoma, helvetica, arial, sans-serif;
+	font-size:14px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	font-size-adjust:none;
+	font-stretch:normal;
+
+	background-attachment:scroll;
+	background-repeat:repeat;
+	background-position-x:0%;
+	background-position-y:0%;
+	background-size:auto;
+	background-origin:padding-box;
+	background-clip:border-box;
+}
+
+form
+{
+	padding: 0px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
+}
+
+div
+{
+	padding: 0px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
+}
+
+#ticket {	
+/*	margin: 0px auto 20px; border: 1px solid rgb(212, 216, 222); width: 700px; height: 369px; color: rgb(0, 0, 0); overflow: hidden; font-family: DejaVuSansMonoBold, verdana, tahoma, sans-serif; position: relative; background-size: 700px 369px;*/
+   	margin: 0px auto 100px; border: 1px solid rgb(212, 216, 222); width: 700px; height: 369px; color: rgb(0, 0, 0); overflow: hidden; font-family: DejaVuSansMonoBold, verdana, tahoma, sans-serif; position: relative; background-size: 700px 369px;
+}
+
+ul {
+	margin: 0px; padding: 0px;
+}
+
+.horizontal#ticket .body {	
+	left: 10px; top: 10px; width: 480px; height: 283px; text-align: center; float: left; position: absolute;
+}
+
+li {
+	margin: 0px; padding: 0px;
+}
+
+li {
+	list-style: none;
+}
+
+#ticket li {
+	border: 1px none rgb(0, 0, 0); line-height: 2; overflow: hidden; font-size: 16px; display: block;
+}
+
+.horizontal#ticket .stub {
+	left: 595px; top: 10px; width: 283px; height: 200px; text-align: center; border-bottom-color: transparent; border-bottom-width: 83px; border-bottom-style: solid; display: block; position: absolute; z-index: 100; transform: rotate(-90deg); -webkit-transform: rotate(-90deg); -moz-transform: rotate(-90deg);
+}
+
+/*#ticket .proof {
+	margin: 25px auto 0px; width: 480px; height: 283px; position: relative; z-index: 10; opacity:0.1;
+}*/
+
+#ticket .proof {
+	margin: 5px auto 0px; width: 650px; height: 320px; position: relative; z-index: 10; opacity:0.1;
+}

@@ -1,0 +1,15 @@
+
+Log Entry : 
+08/15/2013 15:33:12
+Error in: http://localhost:3924/events-List.aspx?ID=E24071312494657&EN=Test+Event+12. Error Message:NO SEATES AVAL
+__________________________
+
+Log Entry : 
+08/15/2013 16:03:55
+Error in: http://localhost:3924/events-List.aspx?ID=E24071312494657. Error Message:NO SEATES AVAL
+__________________________
+
+Log Entry : 
+08/15/2013 16:45:03
+Error in: http://localhost:3924/events-List.aspx?ID=E24071312494657. Error Message:NO SEATES AVAL
+__________________________

@@ -1,0 +1,18 @@
+﻿.inputUserName
+{
+	background:#FFFFFF url('../Images/calendar.png') no-repeat left ;
+	padding:4px 4px 4px 26px;
+	border:1px solid #CCCCCC;
+	width:230px;
+	height:18px;			
+}
+
+.inputpwd
+{
+	background:#FFFFFF url('../Images/pwd.png') no-repeat left ;	
+	padding:4px 4px 4px 26px;
+	border:1px solid #CCCCCC;
+	width:230px;
+	height:18px;			
+}
+

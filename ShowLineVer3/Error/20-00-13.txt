@@ -1,0 +1,280 @@
+
+Log Entry : 
+07/20/2013 10:34:50
+Error in: http://localhost:3924/Admin.aspx. Error Message:Thread was being aborted.
+__________________________
+
+Log Entry : 
+07/20/2013 19:14:23
+Error in: http://localhost:3924/events-List.aspx?ID=E19071307515577. Error Message:Thread was being aborted.
+__________________________
+
+Log Entry : 
+07/20/2013 19:15:23
+Error in: http://localhost:3924/WebSite/Payment.aspx?EID=E19071307515577&TID=T200713064424203. Error Message:Thread was being aborted.
+__________________________
+
+Log Entry : 
+07/20/2013 19:15:23
+Error in: http://localhost:3924/WebSite/Payment.aspx?EID=E19071307515577&TID=T200713064424203. Error Message:Thread was being aborted.
+__________________________
+
+Log Entry : 
+07/20/2013 19:43:32
+Error in: http://localhost:3924/events-List.aspx?ID=E14071309232952. Error Message:Thread was being aborted.
+__________________________
+
+Log Entry : 
+07/20/2013 19:45:14
+Error in: http://localhost:3924/events-List.aspx?ID=E14071309232952. Error Message:Thread was being aborted.
+__________________________
+
+Log Entry : 
+07/20/2013 19:46:38
+Error in: http://localhost:3924/events-List.aspx?ID=E14071309232952. Error Message:Thread was being aborted.
+__________________________
+
+Log Entry : 
+07/20/2013 19:49:00
+Error in: http://localhost:3924/events-List.aspx?ID=E14071309232952. Error Message:Thread was being aborted.
+__________________________
+
+Log Entry : 
+07/20/2013 19:49:42
+Error in: http://localhost:3924/events-List.aspx?ID=E14071309232952&EN=ROAD+2+ULTRA. Error Message:Thread was being aborted.
+__________________________
+
+Log Entry : 
+07/20/2013 19:53:09
+Error in: http://localhost:3924/events-List.aspx?ID=E14071309232952. Error Message:Thread was being aborted.
+__________________________
+
+Log Entry : 
+07/20/2013 19:58:12
+Error in: http://localhost:3924/WebSite/Payment.aspx?EID=E14071309232952&TID=T200713072310427. Error Message:Thread was being aborted.
+__________________________
+
+Log Entry : 
+07/20/2013 19:58:12
+Error in: http://localhost:3924/WebSite/Payment.aspx?EID=E14071309232952&TID=T200713072310427. Error Message:Thread was being aborted.
+__________________________
+
+Log Entry : 
+07/20/2013 19:59:57
+Error in: http://localhost:3924/events-List.aspx?ID=E14071309232952. Error Message:Thread was being aborted.
+__________________________
+
+Log Entry : 
+07/20/2013 20:01:45
+Error in: http://localhost:3924/WebSite/Payment.aspx?EID=E14071309232952&TID=T200713072958316. Error Message:Thread was being aborted.
+__________________________
+
+Log Entry : 
+07/20/2013 20:01:45
+Error in: http://localhost:3924/WebSite/Payment.aspx?EID=E14071309232952&TID=T200713072958316. Error Message:Thread was being aborted.
+__________________________
+
+Log Entry : 
+07/20/2013 20:15:58
+Error in: http://localhost:3924/WebSite/Payment.aspx?EID=E14071309232952&TID=T200713072958316. Error Message:Thread was being aborted.
+__________________________
+
+Log Entry : 
+07/20/2013 20:15:58
+Error in: http://localhost:3924/WebSite/Payment.aspx?EID=E14071309232952&TID=T200713072958316. Error Message:Thread was being aborted.
+__________________________
+
+Log Entry : 
+07/20/2013 20:17:47
+Error in: http://localhost:3924/events-List.aspx?ID=E14071309232952. Error Message:Thread was being aborted.
+__________________________
+
+Log Entry : 
+07/20/2013 13:36:24
+Error in: http://localhost:3924/events-List.aspx?ID=E19081309223089&EN=POS+TEST+ONE. Error Message:Thread was being aborted.
+__________________________
+
+Log Entry : 
+07/20/2013 13:38:05
+Error in: http://localhost:3924/events-List.aspx?ID=E19081309223089&EN=POS+TEST+ONE. Error Message:Invalid path for child request 'http://www.showsline.com/Admin.aspx'. A virtual path is expected.
+__________________________
+
+Log Entry : 
+07/20/2013 13:38:13
+Error in: http://localhost:3924/events-List.aspx?ID=E19081309223089&EN=POS+TEST+ONE. Error Message:Invalid path for child request 'http://www.showsline.com/Admin.aspx'. A virtual path is expected.
+__________________________
+
+Log Entry : 
+07/20/2013 13:38:31
+Error in: http://localhost:3924/events-List.aspx?ID=E19081309223089&EN=POS+TEST+ONE. Error Message:Invalid path for child request 'http://www.showsline.com/Admin.aspx'. A virtual path is expected.
+__________________________
+
+Log Entry : 
+08/20/2013 15:45:08
+Error in: http://localhost:3924/addevent-details.aspx?EO=E24071312494657. Error Message:Booking Alerady Generated.
+__________________________
+
+Log Entry : 
+08/20/2013 15:45:37
+Error in: http://localhost:3924/addevent-details.aspx?EO=E24071312494657. Error Message:Booking Alerady Generated.
+__________________________
+
+Log Entry : 
+07/20/2013 11:42:30
+Error in: http://localhost:3924/CreateAdminUser.aspx. Error Message:Failure sending mail.
+__________________________
+
+Log Entry : 
+07/20/2013 11:44:06
+Error in: http://localhost:3924/CreateAdminUser.aspx. Error Message:Failure sending mail.
+__________________________
+
+Log Entry : 
+07/20/2013 14:55:40
+Error in: http://localhost:3924/CreateAdminUser.aspx. Error Message:The specified string is not in the form required for an e-mail address.
+__________________________
+
+Log Entry : 
+07/20/2013 14:57:04
+Error in: http://localhost:3924/CreateAdminUser.aspx. Error Message:Failure sending mail.
+__________________________
+
+Log Entry : 
+07/20/2013 14:58:15
+Error in: http://localhost:3924/CreateAdminUser.aspx. Error Message:The specified string is not in the form required for an e-mail address.
+__________________________
+
+Log Entry : 
+07/20/2013 14:58:38
+Error in: http://localhost:3924/AdminList.aspx. Error Message:Thread was being aborted.
+__________________________
+
+Log Entry : 
+07/20/2013 15:00:35
+Error in: http://localhost:3924/CreateAdminUser.aspx. Error Message:Failure sending mail.
+__________________________
+
+Log Entry : 
+07/20/2013 15:00:54
+Error in: http://localhost:3924/AdminList.aspx. Error Message:Thread was being aborted.
+__________________________
+
+Log Entry : 
+07/20/2013 15:02:14
+Error in: http://localhost:3924/CreateAdminUser.aspx. Error Message:Failure sending mail.
+__________________________
+
+Log Entry : 
+07/20/2013 15:04:23
+Error in: http://localhost:3924/CreateAdminUser.aspx. Error Message:Failure sending mail.
+__________________________
+
+Log Entry : 
+07/20/2013 15:07:25
+Error in: http://localhost:3924/CreateAdminUser.aspx. Error Message:Failure sending mail.
+__________________________
+
+Log Entry : 
+07/20/2013 21:54:30
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+07/20/2013 22:04:31
+Error in: http://localhost:3924/AdminReport/rptTransactionDetails.aspx. Error Message:Error in: http://localhost:3924/AdminReport/rptTransactionDetails.aspx. Error Message:Literal content ('<!--kk-->') is not allowed within a 'System.Web.UI.WebControls.DataControlFieldCollection'.
+__________________________
+
+Log Entry : 
+07/20/2013 22:04:40
+Error in: http://localhost:3924/AdminReport/rptTransactionDetails.aspx. Error Message:Error in: http://localhost:3924/AdminReport/rptTransactionDetails.aspx. Error Message:Literal content ('<!--kk-->') is not allowed within a 'System.Web.UI.WebControls.DataControlFieldCollection'.
+__________________________
+
+Log Entry : 
+07/20/2013 22:06:28
+Error in: http://localhost:3924/AdminReport/rptTransactionDetails.aspx. Error Message:Error in: http://localhost:3924/AdminReport/rptTransactionDetails.aspx. Error Message:Literal content ('<!--') is not allowed within a 'System.Web.UI.WebControls.DataControlFieldCollection'.
+__________________________
+
+Log Entry : 
+07/20/2013 22:33:38
+Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+07/20/2013 22:33:46
+Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+07/20/2013 22:34:08
+Error in: http://localhost:3924/Reserved.ReportViewerWebControl.axd?OpType=SessionKeepAlive&ControlID=2ae8cf3ea2214c508d3e93fa90f1b2dc&Mode=true. Error Message:Error in: http://localhost:3924/Reserved.ReportViewerWebControl.axd?OpType=SessionKeepAlive&ControlID=2ae8cf3ea2214c508d3e93fa90f1b2dc&Mode=true. Error Message:ASP.NET session has expired or could not be found
+__________________________
+
+Log Entry : 
+07/20/2013 22:37:12
+Error in: http://localhost:3924/Reserved.ReportViewerWebControl.axd?OpType=SessionKeepAlive&ControlID=2e2e0fc498954fd5bf0ebadb3190919c&Mode=true. Error Message:Error in: http://localhost:3924/Reserved.ReportViewerWebControl.axd?OpType=SessionKeepAlive&ControlID=2e2e0fc498954fd5bf0ebadb3190919c&Mode=true. Error Message:ASP.NET session has expired or could not be found
+__________________________
+
+Log Entry : 
+07/20/2013 22:38:21
+Error in: http://localhost:3924/Reserved.ReportViewerWebControl.axd?OpType=SessionKeepAlive&ControlID=29d61a9987f84691885c118406699985&Mode=true. Error Message:Error in: http://localhost:3924/Reserved.ReportViewerWebControl.axd?OpType=SessionKeepAlive&ControlID=29d61a9987f84691885c118406699985&Mode=true. Error Message:ASP.NET session has expired or could not be found
+__________________________
+
+Log Entry : 
+07/20/2013 22:43:30
+Error in: http://localhost:3924/Reserved.ReportViewerWebControl.axd?OpType=SessionKeepAlive&ControlID=9c211c797ff541c9a15de83e182cb77f&Mode=true. Error Message:Error in: http://localhost:3924/Reserved.ReportViewerWebControl.axd?OpType=SessionKeepAlive&ControlID=9c211c797ff541c9a15de83e182cb77f&Mode=true. Error Message:ASP.NET session has expired or could not be found
+__________________________
+
+Log Entry : 
+07/20/2013 22:45:19
+Error in: http://localhost:3924/Reserved.ReportViewerWebControl.axd?OpType=SessionKeepAlive&ControlID=c62ac1a19e754c008646142c93e7cd1d&Mode=true. Error Message:Error in: http://localhost:3924/Reserved.ReportViewerWebControl.axd?OpType=SessionKeepAlive&ControlID=c62ac1a19e754c008646142c93e7cd1d&Mode=true. Error Message:ASP.NET session has expired or could not be found
+__________________________
+
+Log Entry : 
+07/20/2013 22:46:58
+Error in: http://localhost:3924/Reserved.ReportViewerWebControl.axd?OpType=SessionKeepAlive&ControlID=bcff7716c0a04dbb9b9f82e1587102f8&Mode=true. Error Message:Error in: http://localhost:3924/Reserved.ReportViewerWebControl.axd?OpType=SessionKeepAlive&ControlID=bcff7716c0a04dbb9b9f82e1587102f8&Mode=true. Error Message:ASP.NET session has expired or could not be found
+__________________________
+
+Log Entry : 
+07/20/2013 22:54:24
+Error in: http://localhost:3924/Reserved.ReportViewerWebControl.axd?OpType=SessionKeepAlive&ControlID=325d26078558402781767f6dfdf24c9e&Mode=true. Error Message:Error in: http://localhost:3924/Reserved.ReportViewerWebControl.axd?OpType=SessionKeepAlive&ControlID=325d26078558402781767f6dfdf24c9e&Mode=true. Error Message:ASP.NET session has expired or could not be found
+__________________________
+
+Log Entry : 
+07/20/2013 23:44:39
+Error in: http://localhost:3924/Reserved.ReportViewerWebControl.axd?OpType=SessionKeepAlive&ControlID=84e054e8abc1431b80cf13d038e03870&Mode=true. Error Message:Error in: http://localhost:3924/Reserved.ReportViewerWebControl.axd?OpType=SessionKeepAlive&ControlID=84e054e8abc1431b80cf13d038e03870&Mode=true. Error Message:ASP.NET session has expired or could not be found
+__________________________
+
+Log Entry : 
+07/20/2013 23:47:23
+Error in: http://localhost:3924/Reserved.ReportViewerWebControl.axd?OpType=SessionKeepAlive&ControlID=4f575e4fde2e44be96637253f56be5f9&Mode=true. Error Message:Error in: http://localhost:3924/Reserved.ReportViewerWebControl.axd?OpType=SessionKeepAlive&ControlID=4f575e4fde2e44be96637253f56be5f9&Mode=true. Error Message:ASP.NET session has expired or could not be found
+__________________________
+
+Log Entry : 
+07/20/2013 23:53:55
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+__________________________
+
+Log Entry : 
+07/20/2013 23:54:14
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+07/20/2013 23:54:35
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+__________________________
+
+Log Entry : 
+07/20/2013 23:58:17
+Error in: http://localhost:3924/Reserved.ReportViewerWebControl.axd?OpType=SessionKeepAlive&ControlID=2034242bcae1480d8948ab301563ba8c&Mode=true. Error Message:Error in: http://localhost:3924/Reserved.ReportViewerWebControl.axd?OpType=SessionKeepAlive&ControlID=2034242bcae1480d8948ab301563ba8c&Mode=true. Error Message:ASP.NET session has expired or could not be found
+__________________________
+
+Log Entry : 
+07/20/2013 17:10:39
+Error in: http://localhost:3924/CreateAdminUser.aspx. Error Message:Failure sending mail.
+__________________________
+
+Log Entry : 
+07/20/2013 17:53:36
+Error in: http://localhost:3924/Default.aspx. Error Message:Failure sending mail.
+__________________________

@@ -1,0 +1,170 @@
+
+Log Entry : 
+08/28/2013 11:30:36
+Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:d:\SVN Code\ShowLine\ShowLineVer3\ShowLineVer3\AdminReport\rptAllEvent.aspx(21): error CS1061: 'ASP.adminreport_rptallevent_aspx' does not contain a definition for 'btnSearch_Click' and no extension method 'btnSearch_Click' accepting a first argument of type 'ASP.adminreport_rptallevent_aspx' could be found (are you missing a using directive or an assembly reference?)
+__________________________
+
+Log Entry : 
+08/28/2013 11:34:04
+Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:d:\SVN Code\ShowLine\ShowLineVer3\ShowLineVer3\AdminReport\rptAllEvent.aspx(22): error CS1061: 'ASP.adminreport_rptallevent_aspx' does not contain a definition for 'btnSave_ServerClick' and no extension method 'btnSave_ServerClick' accepting a first argument of type 'ASP.adminreport_rptallevent_aspx' could be found (are you missing a using directive or an assembly reference?)
+__________________________
+
+Log Entry : 
+08/28/2013 15:28:49
+Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:Data source is an invalid type.  It must be either an IListSource, IEnumerable, or IDataSource.
+__________________________
+
+Log Entry : 
+08/28/2013 15:30:28
+Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:Data source is an invalid type.  It must be either an IListSource, IEnumerable, or IDataSource.
+__________________________
+
+Log Entry : 
+08/28/2013 16:17:46
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/28/2013 16:18:50
+Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/28/2013 16:19:09
+Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/28/2013 16:21:48
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/28/2013 16:29:37
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/28/2013 16:29:41
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/28/2013 16:29:43
+Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/28/2013 16:29:50
+Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/28/2013 16:29:54
+Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/28/2013 16:30:01
+Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/28/2013 16:30:13
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/28/2013 16:30:55
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/28/2013 16:33:53
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/28/2013 16:35:05
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/28/2013 16:39:12
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/28/2013 17:10:39
+Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:The Report Viewer Web Control requires a System.Web.UI.ScriptManager on the web form.
+__________________________
+
+Log Entry : 
+08/28/2013 17:18:44
+Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/28/2013 17:42:36
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/28/2013 20:43:16
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/28/2013 20:45:51
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/28/2013 20:55:01
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/28/2013 20:56:28
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/28/2013 20:58:26
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/28/2013 21:14:32
+Error in: http://localhost:3924/Reserved.ReportViewerWebControl.axd?OpType=SessionKeepAlive&ControlID=cbfdacbfba984586b9adaf554c3028f1&Mode=true. Error Message:Error in: http://localhost:3924/Reserved.ReportViewerWebControl.axd?OpType=SessionKeepAlive&ControlID=cbfdacbfba984586b9adaf554c3028f1&Mode=true. Error Message:ASP.NET session has expired or could not be found
+__________________________
+
+Log Entry : 
+08/28/2013 21:20:01
+Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/28/2013 21:20:07
+Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/28/2013 21:21:41
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/28/2013 21:57:02
+Error in: http://localhost:3924/Reserved.ReportViewerWebControl.axd?OpType=SessionKeepAlive&ControlID=abc69863770f47899f46f6a24aaafb00&Mode=true. Error Message:Error in: http://localhost:3924/Reserved.ReportViewerWebControl.axd?OpType=SessionKeepAlive&ControlID=abc69863770f47899f46f6a24aaafb00&Mode=true. Error Message:ASP.NET session has expired or could not be found
+__________________________
+
+Log Entry : 
+09/28/2013 10:01:11
+Error in: http://localhost:3924/events-List.aspx?ID=E25091309391185&EN=TEST+EVENT(1+USD). Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+09/28/2013 10:52:29
+Error in: http://localhost:3924/events-List.aspx?ID=E25091309391185. Error Message:Object reference not set to an instance of an object.
+__________________________

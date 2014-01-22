@@ -1,0 +1,15 @@
+
+Log Entry : 
+10/02/2013 02:36:55
+Error in: http://localhost:3924/events-List.aspx?ID=E0210130155336. Error Message:An endpoint configuration section for contract 'ShowLineServiceReference.IService1' could not be loaded because more than one endpoint configuration for that contract was found. Please indicate the preferred endpoint configuration section by name.
+__________________________
+
+Log Entry : 
+10/02/2013 02:38:23
+Error in: http://localhost:3924/events-List.aspx?ID=E0210130155336. Error Message:An endpoint configuration section for contract 'ShowLineServiceReference.IService1' could not be loaded because more than one endpoint configuration for that contract was found. Please indicate the preferred endpoint configuration section by name.
+__________________________
+
+Log Entry : 
+10/02/2013 02:41:52
+Error in: http://localhost:3924/events-List.aspx?ID=E0210130155336. Error Message:An endpoint configuration section for contract 'ShowLineServiceReference.IService1' could not be loaded because more than one endpoint configuration for that contract was found. Please indicate the preferred endpoint configuration section by name.
+__________________________

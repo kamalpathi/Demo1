@@ -1,0 +1,315 @@
+
+Log Entry : 
+08/29/2013 12:23:20
+Error in: http://localhost:3924/Reserved.ReportViewerWebControl.axd?OpType=SessionKeepAlive&ControlID=c09cbe2318fe47a0827a553b54e710c5&Mode=true. Error Message:Error in: http://localhost:3924/Reserved.ReportViewerWebControl.axd?OpType=SessionKeepAlive&ControlID=c09cbe2318fe47a0827a553b54e710c5&Mode=true. Error Message:ASP.NET session has expired or could not be found
+__________________________
+
+Log Entry : 
+08/29/2013 12:43:07
+Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/29/2013 15:05:28
+Error in: http://localhost:3924/Reserved.ReportViewerWebControl.axd?OpType=SessionKeepAlive&ControlID=3d13d4c44eed4010b958f9bdf1579fe5&Mode=true. Error Message:Error in: http://localhost:3924/Reserved.ReportViewerWebControl.axd?OpType=SessionKeepAlive&ControlID=3d13d4c44eed4010b958f9bdf1579fe5&Mode=true. Error Message:ASP.NET session has expired or could not be found
+__________________________
+
+Log Entry : 
+08/29/2013 15:31:28
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/29/2013 16:06:58
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/29/2013 16:08:06
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/29/2013 16:42:49
+Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/29/2013 16:42:58
+Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/29/2013 16:42:59
+Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/29/2013 16:43:36
+Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/29/2013 16:52:44
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/29/2013 17:13:51
+Error in: http://localhost:3924/Reserved.ReportViewerWebControl.axd?OpType=SessionKeepAlive&ControlID=2941539469e34b20930d8e861a4dd11f&Mode=true. Error Message:Error in: http://localhost:3924/Reserved.ReportViewerWebControl.axd?OpType=SessionKeepAlive&ControlID=2941539469e34b20930d8e861a4dd11f&Mode=true. Error Message:ASP.NET session has expired or could not be found
+__________________________
+
+Log Entry : 
+08/29/2013 17:57:36
+Error in: http://localhost:3924/AdminReport/rptEventVenueWise.aspx. Error Message:Error in: http://localhost:3924/AdminReport/rptEventVenueWise.aspx. Error Message:d:\SVN Code\ShowLine\ShowLineVer3\ShowLineVer3\AdminReport\rptEventVenueWise.aspx(34): error CS1061: 'ASP.adminreport_rpteventvenuewise_aspx' does not contain a definition for 'ddVenue_SelectedIndexChanged' and no extension method 'ddVenue_SelectedIndexChanged' accepting a first argument of type 'ASP.adminreport_rpteventvenuewise_aspx' could be found (are you missing a using directive or an assembly reference?)
+__________________________
+
+Log Entry : 
+08/29/2013 17:58:57
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/29/2013 18:03:16
+Error in: http://localhost:3924/AdminReport/rptEventVenueWise.aspx. Error Message:Index was outside the bounds of the array.
+__________________________
+
+Log Entry : 
+08/29/2013 19:11:25
+Error in: http://localhost:3924/AdminReport/rptTransactionDetails.aspx. Error Message:Error in: http://localhost:3924/AdminReport/rptTransactionDetails.aspx. Error Message:d:\SVN Code\ShowLine\ShowLineVer3\ShowLineVer3\AdminReport\rptTransactionDetails.aspx(36): error CS1061: 'ASP.adminreport_rpttransactiondetails_aspx' does not contain a definition for 'btnSave_ServerClick' and no extension method 'btnSave_ServerClick' accepting a first argument of type 'ASP.adminreport_rpttransactiondetails_aspx' could be found (are you missing a using directive or an assembly reference?)
+__________________________
+
+Log Entry : 
+08/29/2013 19:11:49
+Error in: http://localhost:3924/AdminReport/rptTransactionDetails.aspx. Error Message:Error in: http://localhost:3924/AdminReport/rptTransactionDetails.aspx. Error Message:d:\SVN Code\ShowLine\ShowLineVer3\ShowLineVer3\AdminReport\rptTransactionDetails.aspx(36): error CS1061: 'ASP.adminreport_rpttransactiondetails_aspx' does not contain a definition for 'btnSave_ServerClick' and no extension method 'btnSave_ServerClick' accepting a first argument of type 'ASP.adminreport_rpttransactiondetails_aspx' could be found (are you missing a using directive or an assembly reference?)
+__________________________
+
+Log Entry : 
+08/29/2013 19:11:54
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/29/2013 19:12:04
+Error in: http://localhost:3924/AdminReport/rptTransactionDetails.aspx. Error Message:Error in: http://localhost:3924/AdminReport/rptTransactionDetails.aspx. Error Message:d:\SVN Code\ShowLine\ShowLineVer3\ShowLineVer3\AdminReport\rptTransactionDetails.aspx(36): error CS1061: 'ASP.adminreport_rpttransactiondetails_aspx' does not contain a definition for 'btnSave_ServerClick' and no extension method 'btnSave_ServerClick' accepting a first argument of type 'ASP.adminreport_rpttransactiondetails_aspx' could be found (are you missing a using directive or an assembly reference?)
+__________________________
+
+Log Entry : 
+08/29/2013 19:12:26
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/29/2013 19:15:19
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/29/2013 19:21:15
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/29/2013 19:21:18
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/29/2013 19:36:21
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/29/2013 19:44:16
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/29/2013 19:44:26
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/29/2013 19:44:29
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/29/2013 19:46:17
+Error in: http://localhost:3924/AdminReport/rptTransactionDetails.aspx. Error Message:Error in: http://localhost:3924/AdminReport/rptTransactionDetails.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/29/2013 19:47:47
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/29/2013 19:54:15
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/29/2013 19:54:37
+Error in: http://localhost:3924/AdminReport/rptTransactionDetails.aspx. Error Message:Error in: http://localhost:3924/AdminReport/rptTransactionDetails.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/29/2013 19:55:22
+Error in: http://localhost:3924/AdminReport/rptTransactionDetails.aspx. Error Message:Error in: http://localhost:3924/AdminReport/rptTransactionDetails.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/29/2013 20:05:40
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/29/2013 20:10:27
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/29/2013 20:52:46
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/29/2013 20:53:01
+Error in: http://localhost:3924/AdminReport/CustomerDetails.aspx. Error Message:DataBinding: 'ShowLineVer3.Model.CustomerModel' does not contain a property with the name 'RowNumber'.
+__________________________
+
+Log Entry : 
+08/29/2013 20:53:13
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/29/2013 20:53:34
+Error in: http://localhost:3924/AdminReport/CustomerDetails.aspx. Error Message:DataBinding: 'ShowLineVer3.Model.CustomerModel' does not contain a property with the name 'RowNumber'.
+__________________________
+
+Log Entry : 
+08/29/2013 20:55:07
+Error in: http://localhost:3924/AdminReport/CustomerDetails.aspx. Error Message:DataBinding: 'ShowLineVer3.Model.CustomerModel' does not contain a property with the name 'RowNumber'.
+__________________________
+
+Log Entry : 
+08/29/2013 20:55:53
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/29/2013 20:56:08
+Error in: http://localhost:3924/AdminReport/CustomerDetails.aspx. Error Message:DataBinding: 'ShowLineVer3.Model.CustomerModel' does not contain a property with the name 'Phone'.
+__________________________
+
+Log Entry : 
+08/29/2013 20:57:29
+Error in: http://localhost:3924/AdminReport/CustomerDetails.aspx. Error Message:DataBinding: 'ShowLineVer3.Model.CustomerModel' does not contain a property with the name 'Phone'.
+__________________________
+
+Log Entry : 
+08/29/2013 20:57:52
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/29/2013 20:58:27
+Error in: http://localhost:3924/AdminReport/CustomerDetails.aspx. Error Message:Incorrect syntax near 'BINU'.
+Unclosed quotation mark after the character string ''.
+__________________________
+
+Log Entry : 
+08/29/2013 20:59:36
+Error in: http://localhost:3924/AdminReport/CustomerDetails.aspx. Error Message:Incorrect syntax near 'BINU'.
+Unclosed quotation mark after the character string ''.
+__________________________
+
+Log Entry : 
+08/29/2013 21:00:16
+Error in: http://localhost:3924/AdminReport/CustomerDetails.aspx. Error Message:Incorrect syntax near 'BINU'.
+Unclosed quotation mark after the character string ''.
+__________________________
+
+Log Entry : 
+08/29/2013 21:00:40
+Error in: http://localhost:3924/AdminReport/CustomerDetails.aspx. Error Message:Incorrect syntax near 'BINU'.
+Unclosed quotation mark after the character string ''.
+__________________________
+
+Log Entry : 
+08/29/2013 21:01:18
+Error in: http://localhost:3924/AdminReport/CustomerDetails.aspx. Error Message:Incorrect syntax near 'BINU'.
+Unclosed quotation mark after the character string ''.
+__________________________
+
+Log Entry : 
+08/29/2013 21:01:51
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/29/2013 21:21:28
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/29/2013 21:22:11
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/29/2013 21:30:58
+Error in: http://localhost:3924/AdminReport/~/SessionExpire.aspx. Error Message:Error in: http://localhost:3924/AdminReport/~/SessionExpire.aspx. Error Message:The file '/AdminReport/~/SessionExpire.aspx' does not exist.
+__________________________
+
+Log Entry : 
+08/29/2013 21:32:04
+Error in: http://localhost:3924/AdminReport/~/SessionExpire.aspx. Error Message:Error in: http://localhost:3924/AdminReport/~/SessionExpire.aspx. Error Message:The file '/AdminReport/~/SessionExpire.aspx' does not exist.
+__________________________
+
+Log Entry : 
+08/29/2013 21:42:42
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/29/2013 21:45:43
+Error in: http://localhost:3924/AdminReport/rptEventVenueWise.aspx. Error Message:Thread was being aborted.
+__________________________
+
+Log Entry : 
+08/29/2013 21:45:56
+Error in: http://localhost:3924/AdminReport/rptEventVenueWise.aspx. Error Message:Thread was being aborted.
+__________________________
+
+Log Entry : 
+08/29/2013 21:48:41
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/29/2013 21:48:51
+Error in: http://localhost:3924/AdminReport/rptEventVenueWise.aspx. Error Message:Thread was being aborted.
+__________________________
+
+Log Entry : 
+08/29/2013 21:54:57
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/29/2013 21:56:43
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/29/2013 22:04:32
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+08/29/2013 22:18:58
+Error in: http://localhost:3924/AdminReport/rptAllEvent.aspx. Error Message:Thread was being aborted.
+__________________________

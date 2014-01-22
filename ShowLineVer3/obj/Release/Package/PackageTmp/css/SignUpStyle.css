@@ -1,0 +1,65 @@
+﻿.mainr {
+	width: 390px;
+}
+
+.callor {
+	background: rgb(206, 76, 21); padding: 4px; border-radius: 8px; float: left;
+}
+
+.mainr h3 {
+	color: rgb(0, 0, 0); font-size: 18px; font-weight: bold; margin-top: 10px; float: left;
+}
+
+.callwhite {
+	background: rgb(255, 255, 255); border-radius: 4px; float: left;
+}
+
+.spacemain {
+	padding: 0px 20px 10px; float: left;
+}
+
+.signtab {
+	margin: 15px 0px; width: 100%; font-size: 14px; float: left;
+}
+
+.fleft {
+	float: left;
+}
+
+.wt100 {
+	width: 100px;
+}
+
+.radio {
+	margin: 0px 8px 0px 0px; width: 13px; float: left;
+}
+
+.wt165 {
+	width: 165px;
+}
+
+.signin h4 {
+	width: 30px; font-size: 12px; font-weight: bold; margin-top: 5px;
+}
+
+.signin input {
+	padding: 4px 33px; width: 283px;
+}
+
+.signin h2 {
+	width: 125px; font-size: 12px; font-weight: bold; margin-top: 5px;
+}
+
+.signin {
+	width: 350px; margin-bottom: 10px;
+}
+
+.msg {
+	margin: 6px 0px 0px 10px; color: rgb(153, 153, 153); font-size: 18px; float: left; position: absolute;
+}
+
+.item_date
+{
+	font-size: 18px;
+	padding: 5px; border-radius: 5px; border: 1px solid rgb(247, 229, 156); width: 36px; height: 36px; text-align: center; font-size: 10px; float: left; background-color: rgb(255, 255, 204); -moz-border-radius: 5px; -webkit-border-radius: 5px; -o-border-radius: 5px; -khtml-border-radius: 5px;
+}

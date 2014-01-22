@@ -1,0 +1,95 @@
+
+Log Entry : 
+10/26/2013 12:13:44
+Error in: http://localhost:3924/AdminReport/reportSalesReport.aspx. Error Message:Error in: http://localhost:3924/AdminReport/reportSalesReport.aspx. Error Message:d:\SVN Code\ShowsLine New\ShowLineVer3  - Validation changes\ShowLineVer3\AdminReport\reportSalesReport.aspx(40): error CS1061: 'ASP.adminreport_reportsalesreport_aspx' does not contain a definition for 'btnSave_ServerClick' and no extension method 'btnSave_ServerClick' accepting a first argument of type 'ASP.adminreport_reportsalesreport_aspx' could be found (are you missing a using directive or an assembly reference?)
+__________________________
+
+Log Entry : 
+10/26/2013 13:03:42
+Error in: http://localhost:3924/AdminReport/reportSalesReport.aspx. Error Message:Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+10/26/2013 13:03:44
+Error in: http://localhost:3924/AdminReport/reportSalesReport.aspx. Error Message:Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+10/26/2013 13:04:34
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+10/26/2013 13:04:52
+Error in: http://localhost:3924/AdminReport/reportSalesReport.aspx. Error Message:Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+10/26/2013 13:05:52
+Error in: http://localhost:3924/AdminReport/reportSalesReport.aspx. Error Message:Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+10/26/2013 13:06:06
+Error in: http://localhost:3924/AdminReport/reportSalesReport.aspx. Error Message:Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+10/26/2013 13:13:08
+Error in: http://localhost:3924/AdminReport/reportSalesReport.aspx. Error Message:Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+10/26/2013 13:14:54
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+10/26/2013 13:15:32
+Error in: http://localhost:3924/AdminReport/reportSalesReport.aspx. Error Message:Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+10/26/2013 13:17:40
+Error in: http://localhost:3924/AdminReport/reportSalesReport.aspx. Error Message:Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+10/26/2013 13:23:50
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+10/26/2013 13:34:54
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+10/26/2013 13:38:10
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+10/26/2013 13:43:08
+Error in: http://localhost:3924/AdminReport/reportSalesReport.aspx. Error Message:Error in: http://localhost:3924/AdminReport/reportSalesReport.aspx. Error Message:Control 'gvTransactionDetails' of type 'GridView' must be placed inside a form tag with runat=server.
+__________________________
+
+Log Entry : 
+10/26/2013 13:43:33
+Error in: http://localhost:3924/AdminReport/reportSalesReport.aspx. Error Message:Error in: http://localhost:3924/AdminReport/reportSalesReport.aspx. Error Message:Control 'gvTransactionDetails' of type 'GridView' must be placed inside a form tag with runat=server.
+__________________________
+
+Log Entry : 
+10/26/2013 13:45:06
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+10/26/2013 13:52:27
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+10/26/2013 13:53:34
+Error in: http://localhost:3924/addevent-details.aspx. Error Message:Object reference not set to an instance of an object.
+__________________________
